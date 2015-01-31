@@ -3,7 +3,9 @@ h1 {
 }
 
 .col-md-6 .row {
-  background-color: #000;
+  display: block;
+  margin-top: auto;
+  margin-bottom: auto;
 }
 
 img:first-child {
