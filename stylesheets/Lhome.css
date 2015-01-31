@@ -2,12 +2,6 @@ h1 {
   text-size:72px;
 }
 
-#vert-cent {
-  position: relative;
-  top: 50%;
-  transform: translateY(-50%);
-}
-
 img:first-child {
   width:240px;
   height:auto;
