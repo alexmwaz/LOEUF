@@ -2,6 +2,10 @@ h1 {
   text-size:72px;
 }
 
+.col-md-6 {
+  background-color: #000;
+}
+
 img:first-child {
   width:240px;
   height:auto;
