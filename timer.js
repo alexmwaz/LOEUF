@@ -13,6 +13,7 @@ var Egg
     else
         m_time: 0;
 };
+<script src="/js/countdown.js"></script>
 
 var EggTime = function()
 {
