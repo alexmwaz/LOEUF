@@ -3,7 +3,9 @@ h1 {
 }
 
 #vert-cent {
-  vertical-align: middle;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
 }
 
 img:first-child {
