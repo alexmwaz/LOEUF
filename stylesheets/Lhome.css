@@ -2,6 +2,10 @@ h1 {
   text-size:72px;
 }
 
+#vert-cent {
+  vertical-align: middle;
+}
+
 img:first-child {
   width:240px;
   height:auto;
